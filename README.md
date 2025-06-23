@@ -43,7 +43,7 @@ O projeto segue o paradigma de Programação Orientada a Objetos, contendo as se
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ElieteCampos/Exercicio-CSharp.git
 
 ## Exemplo de uso
 
