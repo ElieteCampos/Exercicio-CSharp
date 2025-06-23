@@ -38,6 +38,18 @@ O projeto segue o paradigma de Programação Orientada a Objetos, contendo as se
 - `Order`: Representa o pedido (data, status, cliente e lista de itens)
 - `OrderStatus`: Enumeração que define os possíveis status do pedido
 
+  ## 📚 Aprendizados
+Este projeto aborda conceitos fundamentais como:
+
+- Criação e manipulação de objetos
+
+- Utilização de Enumerações (enum)
+
+- Encapsulamento de dados
+
+- Composição entre classes
+
+
 ## 🏗️ Como Executar
 
 1. Clone o repositório:
@@ -76,16 +88,6 @@ Notebook, $3500.00, Quantity: 1, Subtotal: $3500.00
 Mouse, $150.00, Quantity: 2, Subtotal: $300.00
 Total price: $3800.00
 
-## 📚 Aprendizados
-Este projeto aborda conceitos fundamentais como:
-
-- `Criação e manipulação de objetos`
-
-- `Utilização de Enumerações (enum)`
-
-- `Encapsulamento de dados`
-
-- Composição entre classes
 
 
 
